@@ -10,7 +10,10 @@
 
 #include "common.h"
 
+#include "error.h"
+#include "console.h"
 #include "opt.h"
+#include "opt_usage.h"
 
 #define PROGRAM_NAME "git2"
 
